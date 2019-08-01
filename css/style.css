@@ -1560,7 +1560,11 @@ header {
 
   .home-content h1 {
 		font-size:36px;
-	}
+    }
+    
+    video {
+        width: 100%;
+    }
 
   .header-wrapper h2 {
       margin-bottom: 20px;
