@@ -25,9 +25,9 @@
 	});
 
 	$('#back-to-top').on('click', function(){
-		// $('body,html').animate({
-		// 	scrollTop: 0
-		// }, 600);
+		 $('body,html').animate({
+		 	scrollTop: 0
+		 }, 600);
 		location.href="https://api.whatsapp.com/send?phone=17862013838&text=Hola%20quiero%20info";
 	});
 
